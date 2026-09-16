@@ -42,4 +42,4 @@ Answer + Sources
 
 ## Example Question
 
-![image (20)](Image/image (20).png)
+![image](Image/image.png)
