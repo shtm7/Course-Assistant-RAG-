@@ -6,7 +6,7 @@
 
 ## Features
 
-- Upload course PDFs
+- Upload course PDFs using this Source as a PDF file [elite courses](https://elite-t-s.com/Schedule/Schedule_Eng.pdf)
 - Extract and split course content
 - Create embeddings and store them in ChromaDB
 - Ask questions about course materials
