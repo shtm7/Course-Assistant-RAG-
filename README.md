@@ -42,4 +42,4 @@ Answer + Sources
 
 ## Example Question
 
-![Alt text](path/to/image.png)
+![Alt text](Image/image (20).png)
