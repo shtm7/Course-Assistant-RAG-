@@ -6,7 +6,7 @@
 
 ## Features
 
-- Upload course PDFs using this Source as a PDF file [elite courses](https://elite-t-s.com/Schedule/Schedule_Eng.pdf)
+- Upload course PDFs using this source as a PDF file [elite courses](https://elite-t-s.com/Schedule/Schedule_Eng.pdf)
 - Extract and split course content
 - Create embeddings and store them in ChromaDB
 - Ask questions about course materials
@@ -23,21 +23,21 @@
 - PyPDF
 ## How it works
 Course PDF
-    ↓
+    >
 Text Extraction
-    ↓
+    >
 Text Chunking
-    ↓
+    >
 Embeddings
-    ↓
+    >
 ChromaDB
-    ↓
+    >
 Student Question
-    ↓
+    >
 Relevant Content Retrieval
-    ↓
+    >
 LLM
-    ↓
+    >
 Answer + Sources
 
 ## Example Question
