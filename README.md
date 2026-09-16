@@ -42,4 +42,4 @@ Answer + Sources
 
 ## Example Question
 
-![Alt text](Image/image (20).png)
+![image (20)](Image/image (20).png)
