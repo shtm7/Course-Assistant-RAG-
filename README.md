@@ -1,8 +1,8 @@
 # Course Assistant (RAG)
 **Retrieval-Augmented Generation (RAG)** application that helps students ask questions about their course Information.
 
-**Courses:** Modren Data Engineering for Advanced AI Systems, [SDAIA Academy](https://github.com/SDAIAAcademy) 
-**Author:** Shahad Almanqur - Data Scientist
+- **Courses:** Modern Data Engineering for Advanced AI Systems, [SDAIA Academy](https://github.com/SDAIAAcademy) 
+- **Author:** Shahad Almanqur - Data Scientist
 
 ## Features
 
